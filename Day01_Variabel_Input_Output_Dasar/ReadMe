@@ -1,0 +1,18 @@
+# 🥇 Day 01 — Belajar Variabel, Input & Output, If-Else (Python)
+
+Project hari pertama dalam tantangan **30 Hari Python Projects**.  
+Di sini saya belajar konsep dasar Python:
+
+- Variabel (string, integer, float, boolean)
+- Input dan output
+- Operasi dasar
+- Percabangan (if-else)
+
+## 📝 Fitur Program
+
+- Menyapa pengguna dengan nama
+- Menanyakan makanan favorit
+- Menanyakan umur dan menghitung umur tahun depan
+- Menanyakan jumlah saudara
+- Menanyakan tinggi badan dan IPK (GPA)
+- Menyapa pengguna berdasarkan gender
