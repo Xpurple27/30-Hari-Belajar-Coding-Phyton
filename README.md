@@ -18,7 +18,7 @@ Di sini, saya membangun 30 project kecil menggunakan bahasa pemrograman Python �
 | 01 | [Pengenalan Variabel dan Input Output Dasar](Day01_Variabel_Input_Output_Dasar) | Input Output Dasar | ✅ Selesai |
 | 02 | [Kalkulator Sederhana](Day02_Kalkulator_Sederhana) | Input, Aritmatika, If-Else | ✅ Selesai |
 | 03 | [Konversi Suhu](Day03_Konversi_Suhu) | Input, Rumus, If-Else | ✅ Selesai |
-| 04 | [Tipe Data & Operasi String](Day04_Tipe_Data_&_Operasi_String) | ✅ Selesai |
+| 04 | [Tipe Data & Operasi String](Day04_Tipe_Data_&_Operasi_String) | Tipe Data & Operasi String | ✅ Selesai |
 | 05 | TBA | List & Looping Dasar | ⏳ Dalam proses |
 | 06 | TBA | Dictionary Dasar | ⏳ Dalam proses |
 | 07 | TBA | Fungsi (def) Dasar | ❌ Belum dikerjakan |
