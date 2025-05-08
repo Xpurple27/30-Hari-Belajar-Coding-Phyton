@@ -19,9 +19,9 @@ Di sini, saya membangun 30 project kecil menggunakan bahasa pemrograman Python �
 | 02 | [Kalkulator Sederhana](Day02_Kalkulator_Sederhana) | Input, Aritmatika, If-Else | ✅ Selesai |
 | 03 | [Konversi Suhu](Day03_Konversi_Suhu) | Input, Rumus, If-Else | ✅ Selesai |
 | 04 | [Tipe Data & Operasi String](Day04_Tipe_Data_&_Operasi_String) | Tipe Data & Operasi String | ✅ Selesai |
-| 05 | TBA | List & Looping Dasar | ⏳ Dalam proses |
+| 05 | [List & Looping Dasar](Day05_List_&_Looping_Dasar) | List & Looping Dasar | ✅ Selesai |
 | 06 | TBA | Dictionary Dasar | ⏳ Dalam proses |
-| 07 | TBA | Fungsi (def) Dasar | ❌ Belum dikerjakan |
+| 07 | TBA | Fungsi (def) Dasar | ⏳ Dalam proses |
 | 08 | TBA | Random Number Generator | ❌ Belum dikerjakan |
 | 09 | TBA | Program Cek Bilangan Prima | ❌ Belum dikerjakan |
 | 10 | TBA | Kalkulator BMI | ❌ Belum dikerjakan |
