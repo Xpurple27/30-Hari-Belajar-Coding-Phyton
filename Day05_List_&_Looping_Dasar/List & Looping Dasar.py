@@ -14,5 +14,5 @@ for i in range(n):
 
 # Tampilkan daftar kegiatan
 print("\nDaftar kegiatan harian kamu:")
-for no, kegiatan in enumerate(List, start=1):
-    print(f"{no}. {kegiatan}")
+for nomor, kegiatan in enumerate(List, start=1):
+    print(f"{nomor}. {kegiatan}")
