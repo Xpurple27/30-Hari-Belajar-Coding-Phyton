@@ -5,6 +5,6 @@ Di sini saya belajar penggunaan **list** dan **looping** dasar.
 
 ## 📝 Fitur Program
 
-- Input 5 kegiatan harian
+- Input n (banyak) kegiatan harian
 - Simpan dalam list
 - Tampilkan daftar kegiatan
