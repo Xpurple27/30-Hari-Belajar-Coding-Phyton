@@ -13,8 +13,3 @@ Project hari kedelapan dari tantangan **30 Hari Python Projects**.
 - Fungsi `random.randint()`
 - Validasi kondisi `if`
 - Input dari pengguna
-
-## 💻 Cara Menjalankan
-
-```bash
-python main.py
