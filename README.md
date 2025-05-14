@@ -22,7 +22,7 @@ Di sini, saya membangun 30 project kecil menggunakan bahasa pemrograman Python �
 | 05 | [List & Looping Dasar](Day05_List_&_Looping_Dasar) | List & Looping Dasar | ✅ Selesai |
 | 06 | [Dictionary Dasar](Day06_Dictionary_Dasar) | Dictionary Dasar |  ✅ Selesai |
 | 07 | [Fungsi Dasar](Day07_Fungsi_Dasar) | Fungsi (def) Dasar | ⏳ Dalam proses |
-| 08 | TBA | Random Number Generator | ⏳ Dalam proses |
+| 08 | [Random Number Generator](Day08_Random_Number_Generator) | Random Number Generator | ⏳ Dalam proses |
 | 09 | TBA | Program Cek Bilangan Prima | ❌ Belum dikerjakan |
 | 10 | TBA | Kalkulator BMI | ❌ Belum dikerjakan |
 | 11 | TBA | Game Tebak Angka | ❌ Belum dikerjakan |
